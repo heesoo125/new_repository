@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "HTML / CSS / JS"
+---
+
 # html.css.js
 
 HTML     /  CSS     /     JS
